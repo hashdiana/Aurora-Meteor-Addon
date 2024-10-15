@@ -1,0 +1,11 @@
+accessWidener   v1	named
+accessible method net/minecraft/client/network/ClientPlayerInteractionManager sendSequencedPacket (Lnet/minecraft/client/world/ClientWorld;Lnet/minecraft/client/network/SequencedPacketCreator;)V
+accessible method net/minecraft/client/world/ClientWorld getPendingUpdateManager ()Lnet/minecraft/client/network/PendingUpdateManager;
+accessible field net/minecraft/client/gui/DrawContext matrices Lnet/minecraft/client/util/math/MatrixStack;
+accessible field net/minecraft/client/MinecraftClient entityRenderDispatcher Lnet/minecraft/client/render/entity/EntityRenderDispatcher;
+accessible field net/minecraft/client/MinecraftClient window Lnet/minecraft/client/util/Window;
+accessible field net/minecraft/item/ItemStack item Lnet/minecraft/item/Item;
+accessible class net/minecraft/network/packet/c2s/play/PlayerInteractEntityC2SPacket$InteractType
+accessible class net/minecraft/network/packet/c2s/play/PlayerInteractEntityC2SPacket$InteractTypeHandler
+accessible method net/minecraft/entity/LivingEntity tryUseTotem (Lnet/minecraft/entity/damage/DamageSource;)Z
+accessible field net/minecraft/entity/LimbAnimator pos F
